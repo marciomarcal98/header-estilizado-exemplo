@@ -1,10 +1,2 @@
 @import "./css/global.css";
 @import "./css/header.css";
-
-.info-brasil {
-    display: none;
-}
-
-.brasil:has(img:hover) .info-brasil{
-    display: block;
-}
